@@ -11,4 +11,4 @@ Observatii:
   Linia m+ 4 contine ni, numarul de string-uri de input, iar pe urmatoarele ni linii, string-urile respective.
   - Datele de iesire, pentru fiecare string: contin DA, daca cuvantul este acceptat si un traseu posibil, respectiv NU, in caz contrar.
 
-  ![This is an image](https://www.google.com/search?q=pisica&rlz=1C5CHFA_enRO979RO979&sxsrf=APq-WBsc04SA5gkTCfovC371exDRulbwsw:1648938222088&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwiyr-_Htfb2AhVS7XMBHaDCAkEQ_AUoAXoECAIQAw&biw=1272&bih=712&dpr=2#imgrc=YjoEaz9kziyWGM)
+  ![This is an image](desktop/eu.JPG)
