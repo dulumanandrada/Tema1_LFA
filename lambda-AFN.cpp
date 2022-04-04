@@ -7,8 +7,8 @@
  
 using namespace std;
  
-ifstream fin ("afn.in");
-ofstream fout("afn.out");
+ifstream fin ("lambda-afn.in");
+ofstream fout("lambda-afn.out");
  
 int n, m;                       ///nr de noduri, respectiv nr de muchii
 int nr_finale, F[1001];         ///starile finale
